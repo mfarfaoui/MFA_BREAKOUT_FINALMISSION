@@ -1,0 +1,3 @@
+Game logic game logic flowchart
+
+Trace the cycle: read input, move objects, detect collisions, update score or lives, draw the new state, then decide whether play continues.
