@@ -31,6 +31,10 @@ notes written in MainWindow.xaml.vb code
 as well as described in GHOSTLY TOWER GDD
 and update on discord 
 
+***MEANINGFUL GITCOMMITS: COMPLETE!
+I organized this folder with many subfolders for simple navigation with titles and notes
+also updated Daily Build Log file with how I broke up the assignment 
+
 ***DISCORD PROGRESS REPORTS: COMPLETE!
 FIND IN DISCORD FOLDER
 FILES ARE SAVED AS DISCORD_PROGRESS_REPORT
